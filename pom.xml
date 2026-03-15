@@ -21,7 +21,7 @@
         <jakartaee-api.version>10.0.0</jakartaee-api.version>
         <compiler-plugin.version>3.13.0</compiler-plugin.version>
         <war-plugin.version>3.4.0</war-plugin.version>
-        <liberty-plugin.version>3.10.3</liberty-plugin.version>
+        <liberty-plugin.version>3.12.0</liberty-plugin.version>
     </properties>
 
     <dependencies>
